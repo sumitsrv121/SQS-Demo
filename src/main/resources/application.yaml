@@ -1,0 +1,6 @@
+queue:
+  first-queue: queue-1
+  secondQueue: queue-2
+
+server:
+  port: 8081
